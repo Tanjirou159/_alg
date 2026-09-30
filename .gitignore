@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Session logs (local only)
+session_log.md
+**/session_log.md
